@@ -4,8 +4,8 @@ from random import  choice
 import smtplib
 PLACEHOLDER = "[NAME]"
 AGE = "[AGE]"
-email = "atishtest2060@gmail.com"
-password = "pzch mfxp mvwn fiwu"
+email = ""
+password = ""
 
 
 #choosing the letters form the list of letters
